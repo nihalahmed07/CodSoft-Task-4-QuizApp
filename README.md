@@ -87,4 +87,4 @@ Project Link: [QuizApp](https://github.com/nihalahmed07/CodSoft-Task-4-QuizApp.g
 
 ## Demo
 
-Check out a video demo of the Quiz App on YouTube: [Click here for demo](https://www.youtube.com/link_to_quiz_app_demo)
+Check out a video demo of the Quiz App on YouTube: [Click here for demo](https://youtu.be/mZqgDroGMEg)
