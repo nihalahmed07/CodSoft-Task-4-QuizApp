@@ -1,6 +1,6 @@
 # Quiz App
 
-<img src="path_to_your_logo_image.png" alt="Logo" width="150" height="150">
+<img src="app/src/main/java/com/alphax/quizapp/playstore-icon.png" alt="Logo" width="150" height="150">
 
 The Quiz App is designed to present multiple-choice questions to users, providing immediate feedback on their answers. This app features an intuitive interface and includes all the functionalities needed for an engaging quiz experience.
 
@@ -9,7 +9,6 @@ The Quiz App is designed to present multiple-choice questions to users, providin
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
-- [Firebase Setup](#firebase-setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Contact](#contact)
@@ -29,9 +28,11 @@ The Quiz App is designed to present multiple-choice questions to users, providin
 
 Include some screenshots of your app to give users a visual idea of what your app looks like.
 
-![Screenshot1](link_to_screenshot1)
-![Screenshot2](link_to_screenshot2)
-![Screenshot3](link_to_screenshot3)
+<div>
+    <img src="images/img_3.jpg" alt="Home" width="260" height="550">
+    <img src="images/img_2.jpg" alt="Home" width="260" height="550">
+    <img src="images/img_1.jpg" alt="Home" width="260" height="550">
+</div>
 
 ## Installation
 
@@ -44,54 +45,11 @@ Include some screenshots of your app to give users a visual idea of what your ap
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/quiz-app.git
+    git clone https://github.com/nihalahmed07/CodSoft-Task-4-QuizApp.git
     ```
 2. Open the project in Android Studio.
 3. Let Android Studio install any required dependencies.
 4. Build and run the app on your device or emulator.
-
-## Firebase Setup
-
-1. Go to the [Firebase Console](https://console.firebase.google.com/) and create a new project.
-2. In your Firebase project, add an Android app and follow the setup steps. You'll need the package name of your Android app.
-3. Download the `google-services.json` file provided by Firebase and place it in your project's `app` directory.
-4. Add the Firebase SDK to your project. Update your `build.gradle` files as follows:
-
-**Project-level `build.gradle` (`build.gradle`)**:
-    ```gradle
-    buildscript {
-        dependencies {
-            classpath 'com.google.gms:google-services:4.3.10'  // Check for the latest version
-        }
-    }
-    ```
-
-**App-level `build.gradle` (`app/build.gradle`)**:
-    ```gradle
-    apply plugin: 'com.android.application'
-    apply plugin: 'com.google.gms.google-services'
-
-    dependencies {
-        // Firebase SDK
-        implementation platform('com.google.firebase:firebase-bom:31.1.1') // Check for the latest version
-        implementation 'com.google.firebase:firebase-storage'
-        implementation 'com.google.firebase:firebase-auth'
-        implementation 'com.google.firebase:firebase-database'
-        // Other dependencies
-    }
-    ```
-
-5. Initialize Firebase in your application. Update your `MainActivity.java` or `MainActivity.kt`:
-    ```java
-    import com.google.firebase.FirebaseApp;
-
-    @Override
-    public void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        FirebaseApp.initializeApp(this);
-        // Other initialization code
-    }
-    ```
 
 ## Usage
 
@@ -123,9 +81,9 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Nihal Ahmed - [n.nihalahmed1@gmail.com](mailto:n.nihalahmed1@gmail.com)
 
-Project Link: [https://github.com/yourusername/quiz-app](https://github.com/yourusername/quiz-app)
+Project Link: [QuizApp](https://github.com/nihalahmed07/CodSoft-Task-4-QuizApp.git)
 
 ## Demo
 
