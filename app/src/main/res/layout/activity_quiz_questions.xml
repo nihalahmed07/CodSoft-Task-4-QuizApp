@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:background="@drawable/img"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/questionText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:text="ENTER YOUR QUESTION"/>
+
+        <Button
+            android:id="@+id/option1Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="option1"
+            android:background="@drawable/question_option"
+            android:padding="10dp"
+            android:textSize="18sp"
+            android:layout_marginTop="20dp"
+            android:gravity="center"/>
+
+        <Button
+            android:id="@+id/option2Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/question_option"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="option1"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/option3Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="option1"
+            android:background="@drawable/question_option"
+            android:padding="10dp"
+            android:textSize="18sp"
+            android:layout_marginTop="20dp"
+            android:gravity="center"/>
+
+        <Button
+            android:id="@+id/option4Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="option1"
+            android:background="@drawable/question_option"
+            android:padding="10dp"
+            android:textSize="18sp"
+            android:layout_marginTop="20dp"
+            android:gravity="center"/>
+
+    </LinearLayout>

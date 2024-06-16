@@ -1,0 +1,554 @@
+[
+  {
+    "title": "Quiz 1",
+    "questions": [
+      {
+        "text": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "London"],
+        "correctAnswer": 2
+      },
+      {
+        "text": "Which planet is known as the Red Planet?",
+        "options": ["Earth", "Mars", "Venus", "Jupiter"],
+        "correctAnswer": 1
+      },
+      {
+        "text": "What is the largest mammal in the world?",
+        "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+        "correctAnswer": 1
+      },
+      {
+        "text": "What is the chemical symbol for water?",
+        "options": ["H2O", "CO2", "O2", "NaCl"],
+        "correctAnswer": 0
+      },
+      {
+        "text": "Which gas do humans breathe out?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "correctAnswer": 1
+      },
+      {
+        "text": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "correctAnswer": 2
+      },
+      {
+        "text": "What is the chemical symbol for gold?",
+        "options": ["Au", "Ag", "Fe", "Cu"],
+        "correctAnswer": 0
+      },
+      {
+        "text": "Which gas do plants absorb from the atmosphere?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "correctAnswer": 1
+      },
+      {
+        "text": "What is the tallest mountain in the world?",
+        "options": ["Mount Kilimanjaro", "Mount Everest", "Mount Fuji", "Mount McKinley"],
+        "correctAnswer": 1
+      },
+      {
+        "text": "What is the chemical symbol for helium?",
+        "options": ["H2O", "He", "O2", "NaCl"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "title": "Quiz 2",
+    "questions": [
+      {
+        "text": "What is the capital of Italy?",
+        "options": ["Berlin", "Madrid", "Rome", "London"],
+        "correctAnswer": 2
+      },
+      {
+        "text": "Which gas makes up the majority of Earth's atmosphere?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "correctAnswer": 2
+      },
+      {
+        "text": "What is the smallest planet in our solar system?",
+        "options": ["Mercury", "Venus", "Earth", "Mars"],
+        "correctAnswer": 0
+      },
+      {
+        "text": "What is the chemical symbol for silver?",
+        "options": ["Au", "Ag", "Fe", "Cu"],
+        "correctAnswer": 1
+      },
+      {
+        "text": "Which gas is commonly known as laughing gas?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrous Oxide", "Hydrogen"],
+        "correctAnswer": 2
+      },
+      {
+        "text": "What is the largest moon of Jupiter?",
+        "options": ["Io", "Ganymede", "Europa", "Callisto"],
+        "correctAnswer": 1
+      },
+      {
+        "text": "What is the chemical symbol for carbon?",
+        "options": ["C", "Ca", "O2", "NaCl"],
+        "correctAnswer": 0
+      },
+      {
+        "text": "What is the chemical formula for table salt?",
+        "options": ["H2O", "CO2", "O2", "NaCl"],
+        "correctAnswer": 3
+      },
+      {
+        "text": "What is the highest waterfall in the world?",
+        "options": ["Niagara Falls", "Angel Falls", "Victoria Falls", "Iguazu Falls"],
+        "correctAnswer": 1
+      },
+      {
+        "text": "What is the chemical symbol for oxygen?",
+        "options": ["O2", "He", "N2", "NaCl"],
+        "correctAnswer": 0
+      }
+    ]
+  }
+,
+  {
+    "title": "Quiz 3",
+    "questions": [
+      {
+        "text": "What is the capital of Japan?",
+        "options": ["Tokyo", "Osaka", "Kyoto", "Hiroshima"],
+        "correctAnswer": 0
+      },
+      {
+        "text": "Which gas is responsible for the green color of plants?",
+        "options": ["Oxygen", "Carbon Dioxide", "Chlorophyll", "Hydrogen"],
+        "correctAnswer": 2
+      },
+      {
+        "text": "What is the closest star to Earth?",
+        "options": ["Venus", "Mars", "The Moon", "The Sun"],
+        "correctAnswer": 3
+      },
+      {
+        "text": "What is the chemical symbol for silver?",
+        "options": ["Ag", "Au", "Fe", "Cu"],
+        "correctAnswer": 0
+      },
+      {
+        "text": "Which gas is commonly used in balloons to make them float?",
+        "options": ["Oxygen", "Carbon Dioxide", "Helium", "Nitrogen"],
+        "correctAnswer": 2
+      },
+      {
+        "text": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "correctAnswer": 2
+      },
+      {
+        "text": "What is the chemical symbol for potassium?",
+        "options": ["K", "Ka", "P", "Ko"],
+        "correctAnswer": 0
+      },
+      {
+        "text": "What is the chemical formula for water?",
+        "options": ["H2O", "CO2", "O2", "NaCl"],
+        "correctAnswer": 0
+      },
+      {
+        "text": "What is the deepest part of the ocean?",
+        "options": ["Mariana Trench", "Puerto Rico Trench", "Sunda Trench", "Java Trench"],
+        "correctAnswer": 0
+      },
+      {
+        "text": "What is the chemical symbol for nitrogen?",
+        "options": ["N2", "Ne", "Ni", "NaCl"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "title": "Quiz 4",
+    "questions": [
+      {
+        "text": "What is the capital of Canada?",
+        "options": ["Toronto", "Montreal", "Ottawa", "Vancouver"],
+        "correctAnswer": 2
+      },
+      {
+        "text": "Which gas is responsible for the ozone layer in the Earth's atmosphere?",
+        "options": ["Oxygen", "Carbon Dioxide", "Ozone", "Hydrogen"],
+        "correctAnswer": 2
+      },
+      {
+        "text": "What is the largest moon of Saturn?",
+        "options": ["Mimas", "Tethys", "Dione", "Titan"],
+        "correctAnswer": 3
+      },
+      {
+        "text": "What is the chemical symbol for iron?",
+        "options": ["Fe", "Ag", "Au", "Cu"],
+        "correctAnswer": 0
+      },
+      {
+        "text": "Which gas is known as laughing gas?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrous Oxide", "Hydrogen"],
+        "correctAnswer": 2
+      },
+      {
+        "text": "What is the second-largest planet in our solar system?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "correctAnswer": 3
+      },
+      {
+        "text": "What is the chemical symbol for sodium?",
+        "options": ["S", "Na", "So", "Si"],
+        "correctAnswer": 1
+      },
+      {
+        "text": "What is the chemical formula for methane?",
+        "options": ["H2O", "CH4", "O2", "NaCl"],
+        "correctAnswer": 1
+      },
+      {
+        "text": "What is the largest desert in the world?",
+        "options": ["Sahara Desert", "Arctic Desert", "Gobi Desert", "Atacama Desert"],
+        "correctAnswer": 0
+      },
+      {
+        "text": "What is the chemical symbol for hydrogen?",
+        "options": ["H2", "He", "N2", "NaCl"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "title": "Quiz 5",
+    "questions": [
+      {
+        "text": "What is the capital of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+        "correctAnswer": 2
+      },
+      {
+        "text": "Which gas is essential for respiration in humans?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "correctAnswer": 0
+      },
+      {
+        "text": "What is the hottest planet in our solar system?",
+        "options": ["Earth", "Mars", "Venus", "Mercury"],
+        "correctAnswer": 2
+      },
+      {
+        "text": "What is the chemical symbol for copper?",
+        "options": ["Cu", "Ag", "Fe", "Au"],
+        "correctAnswer": 0
+      },
+      {
+        "text": "What gas is used in streetlights to produce a bright white light?",
+        "options": ["Oxygen", "Carbon Dioxide", "Neon", "Hydrogen"],
+        "correctAnswer": 2
+      },
+      {
+        "text": "What is the smallest planet in our solar system?",
+        "options": ["Earth", "Mars", "Jupiter", "Mercury"],
+        "correctAnswer": 3
+      },
+      {
+        "text": "What is the chemical symbol for calcium?",
+        "options": ["C", "Ca", "O2", "NaCl"],
+        "correctAnswer": 1
+      },
+      {
+        "text": "What is the chemical formula for carbon dioxide?",
+        "options": ["H2O", "CO2", "O2", "NaCl"],
+        "correctAnswer": 1
+      },
+      {
+        "text": "What is the largest coral reef system in the world?",
+        "options": ["Great Barrier Reef", "Maldives Reef", "Red Sea Coral Reef", "Belize Barrier Reef"],
+        "correctAnswer": 0
+      },
+      {
+        "text": "What is the chemical symbol for nitrogen?",
+        "options": ["N2", "Ne", "Ni", "NaCl"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "title": "Quiz 6",
+    "questions": [
+      {
+        "text": "What is the capital of China?",
+        "options": ["Shanghai", "Beijing", "Guangzhou", "Hong Kong"],
+        "correctAnswer": 1
+      },
+      {
+        "text": "Which gas is released when baking soda and vinegar are mixed?",
+        "options": ["Oxygen", "Carbon Dioxide", "Hydrogen", "Methane"],
+        "correctAnswer": 1
+      },
+      {
+        "text": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "correctAnswer": 2
+      },
+      {
+        "text": "What is the chemical symbol for lead?",
+        "options": ["Pb", "Ag", "Fe", "Cu"],
+        "correctAnswer": 0
+      },
+      {
+        "text": "What is the chemical name for table salt?",
+        "options": ["Sodium Chloride", "Potassium Chloride", "Calcium Chloride", "Magnesium Chloride"],
+        "correctAnswer": 0
+      },
+      {
+        "text": "What is the longest river in the world?",
+        "options": ["Amazon River", "Nile River", "Mississippi River", "Yangtze River"],
+        "correctAnswer": 1
+      },
+      {
+        "text": "What is the chemical symbol for potassium?",
+        "options": ["K", "Ka", "P", "Ko"],
+        "correctAnswer": 0
+      },
+      {
+        "text": "What is the chemical formula for ammonia?",
+        "options": ["H2O", "CO2", "NH3", "NaCl"],
+        "correctAnswer": 2
+      },
+      {
+        "text": "What is the highest mountain in North America?",
+        "options": ["Mount Kilimanjaro", "Mount Everest", "Denali", "Mount Fuji"],
+        "correctAnswer": 2
+      },
+      {
+        "text": "What is the chemical symbol for helium?",
+        "options": ["H2O", "He", "O2", "NaCl"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "title": "Quiz 7",
+    "questions": [
+      {
+        "text": "What is the capital of India?",
+        "options": ["Mumbai", "New Delhi", "Kolkata", "Chennai"],
+        "correctAnswer": 1
+      },
+      {
+        "text": "Which gas do humans exhale when they breathe?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "correctAnswer": 1
+      },
+      {
+        "text": "What is the smallest planet in our solar system?",
+        "options": ["Earth", "Mars", "Jupiter", "Mercury"],
+        "correctAnswer": 3
+      },
+      {
+        "text": "What is the chemical symbol for silver?",
+        "options": ["Ag", "Au", "Fe", "Cu"],
+        "correctAnswer": 0
+      },
+      {
+        "text": "What is the chemical formula for water?",
+        "options": ["H2O", "CO2", "O2", "NaCl"],
+        "correctAnswer": 0
+      },
+      {
+        "text": "What is the largest desert in the world?",
+        "options": ["Sahara Desert", "Arctic Desert", "Gobi Desert", "Atacama Desert"],
+        "correctAnswer": 0
+      },
+      {
+        "text": "What is the chemical symbol for oxygen?",
+        "options": ["O2", "He", "N2", "NaCl"],
+        "correctAnswer": 0
+      },
+      {
+        "text": "What is the chemical formula for methane?",
+        "options": ["H2O", "CH4", "O2", "NaCl"],
+        "correctAnswer": 1
+      },
+      {
+        "text": "What is the largest coral reef system in the world?",
+        "options": ["Great Barrier Reef", "Maldives Reef", "Red Sea Coral Reef", "Belize Barrier Reef"],
+        "correctAnswer": 0
+      },
+      {
+        "text": "What is the chemical symbol for nitrogen?",
+        "options": ["N2", "Ne", "Ni", "NaCl"],
+        "correctAnswer": 0
+      }
+    ]
+  },
+  {
+    "title": "Quiz 8",
+    "questions": [
+      {
+        "text": "What is the capital of Brazil?",
+        "options": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+        "correctAnswer": 2
+      },
+      {
+        "text": "Which gas is known as the 'silent killer' because it is colorless and odorless?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Carbon Monoxide"],
+        "correctAnswer": 3
+      },
+      {
+        "text": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "correctAnswer": 2
+      },
+      {
+        "text": "What is the chemical symbol for tin?",
+        "options": ["Tn", "Ti", "Sn", "Te"],
+        "correctAnswer": 2
+      },
+      {
+        "text": "What is the chemical formula for common salt?",
+        "options": ["H2O", "CO2", "O2", "NaCl"],
+        "correctAnswer": 3
+      },
+      {
+        "text": "What is the longest river in South America?",
+        "options": ["Amazon River", "Nile River", "Mississippi River", "Yangtze River"],
+        "correctAnswer": 0
+      },
+      {
+        "text": "What is the chemical symbol for potassium?",
+        "options": ["K", "Ka", "P", "Ko"],
+        "correctAnswer": 0
+      },
+      {
+        "text": "What is the chemical formula for ammonia?",
+        "options": ["H2O", "CO2", "NH3", "NaCl"],
+        "correctAnswer": 2
+      },
+      {
+        "text": "What is the highest mountain in South America?",
+        "options": ["Mount Kilimanjaro", "Mount Everest", "Aconcagua", "Mount Fuji"],
+        "correctAnswer": 2
+      },
+      {
+        "text": "What is the chemical symbol for helium?",
+        "options": ["H2O", "He", "O2", "NaCl"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "title": "Quiz 9",
+    "questions": [
+      {
+        "text": "What is the capital of Russia?",
+        "options": ["Moscow", "Saint Petersburg", "Kazan", "Novosibirsk"],
+        "correctAnswer": 0
+      },
+      {
+        "text": "Which gas is responsible for the greenhouse effect?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Methane"],
+        "correctAnswer": 1
+      },
+      {
+        "text": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "correctAnswer": 2
+      },
+      {
+        "text": "What is the chemical symbol for aluminum?",
+        "options": ["Al", "Ag", "Fe", "Cu"],
+        "correctAnswer": 0
+      },
+      {
+        "text": "What is the chemical formula for methane?",
+        "options": ["H2O", "CH4", "O2", "NaCl"],
+        "correctAnswer": 1
+      },
+      {
+        "text": "What is the largest desert in Asia?",
+        "options": ["Sahara Desert", "Gobi Desert", "Kalahari Desert", "Atacama Desert"],
+        "correctAnswer": 1
+      },
+      {
+        "text": "What is the chemical symbol for carbon?",
+        "options": ["C", "Ca", "O2", "NaCl"],
+        "correctAnswer": 0
+      },
+      {
+        "text": "What is the chemical formula for table salt?",
+        "options": ["H2O", "CO2", "O2", "NaCl"],
+        "correctAnswer": 3
+      },
+      {
+        "text": "What is the longest river in Europe?",
+        "options": ["Amazon River", "Nile River", "Danube River", "Yangtze River"],
+        "correctAnswer": 2
+      },
+      {
+        "text": "What is the chemical symbol for neon?",
+        "options": ["N2", "Ne", "Ni", "NaCl"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "title": "Quiz 10",
+    "questions": [
+      {
+        "text": "What is the capital of South Africa?",
+        "options": ["Cape Town", "Johannesburg", "Pretoria", "Durban"],
+        "correctAnswer": 2
+      },
+      {
+        "text": "Which gas is used in the production of soft drinks?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "correctAnswer": 1
+      },
+      {
+        "text": "What is the smallest planet in our solar system?",
+        "options": ["Earth", "Mars", "Jupiter", "Mercury"],
+        "correctAnswer": 3
+      },
+      {
+        "text": "What is the chemical symbol for gold?",
+        "options": ["Au", "Ag", "Fe", "Cu"],
+        "correctAnswer": 0
+      },
+      {
+        "text": "What is the chemical formula for baking soda?",
+        "options": ["H2O", "CO2", "NaOH", "NaHCO3"],
+        "correctAnswer": 3
+      },
+      {
+        "text": "What is the largest desert in North America?",
+        "options": ["Sahara Desert", "Sonoran Desert", "Gobi Desert", "Atacama Desert"],
+        "correctAnswer": 1
+      },
+      {
+        "text": "What is the chemical symbol for sulfur?",
+        "options": ["S", "Sa", "So", "Si"],
+        "correctAnswer": 0
+      },
+      {
+        "text": "What is the chemical formula for hydrogen peroxide?",
+        "options": ["H2O2", "CO2", "O2", "NaCl"],
+        "correctAnswer": 0
+      },
+      {
+        "text": "What is the longest river in Australia?",
+        "options": ["Amazon River", "Nile River", "Murray-Darling River", "Yangtze River"],
+        "correctAnswer": 2
+      },
+      {
+        "text": "What is the chemical symbol for argon?",
+        "options": ["Ar", "Ag", "Au", "Cu"],
+        "correctAnswer": 0
+      }
+    ]
+  }
+]
+
