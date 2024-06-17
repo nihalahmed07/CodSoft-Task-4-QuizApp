@@ -26,8 +26,6 @@ The Quiz App is designed to present multiple-choice questions to users, providin
 
 ## Screenshots
 
-Include some screenshots of your app to give users a visual idea of what your app looks like.
-
 <div>
     <img src="images/img_3.jpg" alt="Home" width="260" height="550">
     <img src="images/img_2.jpg" alt="Home" width="260" height="550">
